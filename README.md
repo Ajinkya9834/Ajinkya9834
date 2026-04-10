@@ -7,8 +7,11 @@
 
 📂 My Recent Project – Movie App
 🎬 A modern movie web application where users can explore trending movies, search for their favorite titles, and view detailed movie information including trailers and cast.
+
 🌟 Features include dynamic movie detail pages, trailer integration (YouTube), top billed cast with horizontal scrolling, movie facts section, and a fully responsive UI for all devices.
+
 🚀 Technologies Used: React.js, HTML, Tailwind CSS, TMDB API, React Router
+
 🔗 Repository Link: https://github.com/Ajinkya9834/React-Movie-Api-Project
 
 👨‍💻 About Me
