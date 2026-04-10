@@ -3,14 +3,13 @@
 
 🔗 Links: 
   - LinkedIn: www.linkedin.com/in/ajinkya-hajare
-  - FrontEnd Mentor Profile: https://www.frontendmentor.io/profile/Ajinkya9834
+  - Coding Challenges Profile: https://www.frontendmentor.io/profile/Ajinkya9834
 
-📂 My Recent Project
-Food Delivery Website  
-  - 🛒 A fully functional *FullStack food delivery* website where users can browse menus, add items to the cart, place orders and send an **automated email notification** on users G-mail account after completing successfull payment.
-  - 🌟 Features include a dynamic menu, category filters,, track order history, update order status, a **responsive design** for both desktop and mobile, **password encryption**. **Session Management** for user authentication. **RESTful APIs** and Utilized **HTTP methods** (GET, POST, PUT, DELETE). **QR Code** for easy access to the download apps on Apple and Google Play stores.
-  - 🚀 Technologies Used: **React.js, JavaScript, HTML, CSS, Material-UI, npm packages, Node.js, PostgreSQL**
-  - Repository Link: https://github.com/Ajinkya9834/FoodDelivery-major-project/tree/master
+📂 My Recent Project – Movie App
+🎬 A modern movie web application where users can explore trending movies, search for their favorite titles, and view detailed movie information including trailers and cast.
+🌟 Features include dynamic movie detail pages, trailer integration (YouTube), top billed cast with horizontal scrolling, movie facts section, and a fully responsive UI for all devices.
+🚀 Technologies Used: React.js, HTML, Tailwind CSS, TMDB API, React Router
+🔗 Repository Link: https://github.com/Ajinkya9834/React-Movie-Api-Project
 
 👨‍💻 About Me
 - 🎓 I hold a *PG-Diploma in Advanced Computing* from CDAC Mumbai (2024).
