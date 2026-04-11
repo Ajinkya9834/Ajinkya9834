@@ -18,5 +18,4 @@
 👨‍💻 About Me
 - 🎓 I hold a *PG-Diploma in Advanced Computing* from CDAC Mumbai (2024).
 - 🌱 I am actively looking for frontend developer opportunities to grow my skills and contribute to impactful projects. I also have solved frontend challenges on Frontend Mentor platform to continuously improve my problem-solving and UI development skills.
-- 
 
