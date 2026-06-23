@@ -5,6 +5,7 @@
   - LinkedIn: www.linkedin.com/in/ajinkya-hajare
   - Coding Challenges Profile: https://www.frontendmentor.io/profile/Ajinkya9834
   - Udemy Certification: ude.my/UC-545b6f73-a1b2-4ce6-8158-a4a677deb7c0 
+  
 📂 My Recent Project – Movie App
 
 🎬 A modern movie web application where users can explore trending movies, search for their favorite titles, and view detailed movie information including trailers and cast.
