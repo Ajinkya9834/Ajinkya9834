@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Ajinkya Hajare
-🚀 Aspiring Frontend Developer | React.js 
+🚀 1 year experience as Jr. Web developer
 
 🔗 Links: 
   - LinkedIn: www.linkedin.com/in/ajinkya-hajare
