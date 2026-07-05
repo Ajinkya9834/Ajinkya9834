@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Ajinkya Hajare
-🚀 1 year experience as Jr. Web developer
 
 🔗 Links: 
-  - LinkedIn: www.linkedin.com/in/ajinkya-hajare
   - Coding Challenges Profile: https://www.frontendmentor.io/profile/Ajinkya9834
   - Udemy Certification: ude.my/UC-545b6f73-a1b2-4ce6-8158-a4a677deb7c0 
   
