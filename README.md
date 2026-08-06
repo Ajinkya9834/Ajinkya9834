@@ -2,7 +2,8 @@
 
 🔗 Links: 
   - Coding Challenges Profile: https://www.frontendmentor.io/profile/Ajinkya9834
-  - Udemy Certification: ude.my/UC-545b6f73-a1b2-4ce6-8158-a4a677deb7c0 
+  - Udemy Certification: ude.my/UC-545b6f73-a1b2-4ce6-8158-a4a677deb7c0
+  - Linkedin: https://www.linkedin.com/in/ajinkya-hajare
   
 📂 My Recent Project – Movie App
 
