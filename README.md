@@ -14,6 +14,7 @@
 🚀 Technologies Used: React.js, HTML, Tailwind CSS, TMDB API, React Router
 
 🔗 Repository Link: https://github.com/Ajinkya9834/React-Movie-Project
+
 🔗 Live link: https://react-movie-project-pi.vercel.app/
 
 👨‍💻 About Me
