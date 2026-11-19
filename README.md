@@ -1,3 +1,5 @@
+#About me:
+Generative AI Engineer with hands-on experience in Python, SQL, LLMs, Prompt Engineering, RAG, and AI Agents. Exploring building AI-powered applications using OpenAI APIs, FastAPI, Hugging Face, PostgreSQL, etc. Strong understanding of LLM integration, automation, and backend development, with a passion for building practical AI-driven solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajinkya-hajare)
