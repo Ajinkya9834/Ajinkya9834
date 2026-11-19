@@ -1,4 +1,4 @@
-#About me:
+# 💫 About Me:
 Generative AI Engineer with hands-on experience in Python, SQL, LLMs, Prompt Engineering, RAG, and AI Agents. Exploring building AI-powered applications using OpenAI APIs, FastAPI, Hugging Face, PostgreSQL, etc. Strong understanding of LLM integration, automation, and backend development, with a passion for building practical AI-driven solutions.
 
 ## 🌐 Socials:
